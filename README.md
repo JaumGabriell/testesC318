@@ -1,5 +1,4 @@
 
-## FALTANDO!!
 
 Seção	Status	O que falta
 1. Configuração	✅ OK	Imports atualizados (VIF, roc_curve, auc)
