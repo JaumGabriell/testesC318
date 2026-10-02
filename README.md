@@ -9,4 +9,4 @@ Seção	Status	O que falta
 5. Modelagem Supervisionada	✅ OK
 6. Otimização	✅ OK
 7. Não Supervisionado	✅ OK
-8. Conclusões	⚠️ Ajustar	Atualizar após correções
+8. Conclusões	✅ OK
