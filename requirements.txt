@@ -1,6 +1,8 @@
 # Projeto C318 - Machine Learning
 # Classificação de Faixas Salariais no Mercado de IA
 
+python==3.11.10
+
 # Core
 pandas==2.2.3
 numpy==2.1.1
